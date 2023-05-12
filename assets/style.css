@@ -29,12 +29,14 @@ body{
 }
 header h1{
     color: #e9c881;
+    font-weight: 900;
     text-shadow: 2px 2px 5px black;
 }
 header p{
     margin-top: 7px;
     color: #e9c881;
     font-size: 18px;
+    font-weight: 800;
 }
 .wrapper .textContainer{
     margin: 20px 0 30px;
@@ -80,4 +82,8 @@ header p{
 }
 a{
     color: #cea82dcb !important;
+    font-family: Verdana;
+    text-shadow: 2px 2px 5px black;
+    font-weight: 600;
+    text-decoration: none !important;
 }
